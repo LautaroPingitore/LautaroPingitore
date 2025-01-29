@@ -26,7 +26,7 @@
 
 ### ✅ Certifications:
 - 🏆 **Cambridge First Certificate (FCE)** – B2 Level  
-- 🎨 **Design Thinking** – User-centered innovation methodology  
+- 🎨 **Design Thinking Co-Creator** – User-centered innovation methodology  
 
 ### 📖 Knowledge:
 - 📨 **Marketing Cloud Email Specialist** – Email marketing automation with Salesforce  
