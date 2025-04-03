@@ -1,5 +1,9 @@
 <h1 align="center"><b>Hi , I'm Lautaro Pingitore </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h3 align="center">
+  📌 <b>Software developer passionate about problem-solving and building innovative solutions!</b>
+</h3>
+
 ## About Me:
 - 💡 I enjoy learning about various programming languages and developing intelligent solutions for different types of problems.  
 - 🎓 I'm currently studying Information Technology Engineering at the University of Buenos Aires (3rd year).
@@ -50,7 +54,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pingitore.lautaro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-pingitore-49aa60310/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lautaro_pingitore)
-
 
 ## GitHub Stats :
 <br>
