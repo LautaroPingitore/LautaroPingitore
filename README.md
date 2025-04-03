@@ -18,18 +18,22 @@
 </div>
 
 ## Languages I have used :
-![C](https://img.shields.io/badge/C-%232370ED?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23316292?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-%235D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-%23D30001?style=for-the-badge&logoColor=white)
-![Wollok](https://img.shields.io/badge/Wollok-%23CC342D?style=for-the-badge&logoColor=white)
+<div align="center">
+  
+  ![C](https://img.shields.io/badge/C-%232370ED?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%23316292?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Haskell](https://img.shields.io/badge/Haskell-%235D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+  ![Prolog](https://img.shields.io/badge/Prolog-%23D30001?style=for-the-badge&logoColor=white)
+  ![Wollok](https://img.shields.io/badge/Wollok-%23CC342D?style=for-the-badge&logoColor=white)
+
+</div>
 
 ### ✅ Certifications:
 - 🏆 **Cambridge First Certificate (FCE)** – B2 Level  
