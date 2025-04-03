@@ -2,10 +2,9 @@
 
 ## About Me:
 - 💡 I enjoy learning about various programming languages and developing intelligent solutions for different types of problems.  
-- 🎓 I'm currently studying Information Technology Engineering at the University of Buenos Aires (3rd year).  
-- 🚀 Interested in artificial intelligence and software development.  
+- 🎓 I'm currently studying Information Technology Engineering at the University of Buenos Aires (3rd year).
+- 🔍 I'm actively looking for my first work experience (internship, training program, or part-time job) to develop professionally.
 - 📫 Reach me at **pingitore.lautaro@gmail.com**  
-- 👨🏽‍💻 Currently learning more about Python and planning to start with Java.  
 - ⚡️ Fun Fact: I'm a huge fan of Brandon Sanderson and all his books!
 
 <div align="center">
@@ -15,14 +14,18 @@
 </div>
 
 ## Languages I have used :
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-D30001.svg?style=for-the-badge&logo=&logoColor=white)
-![Wollok](https://img.shields.io/badge/Wollok-CC342D.svg?style=for-the-badge&logo=&logoColor=white)
+![C](https://img.shields.io/badge/C-%232370ED?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23316292?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-%235D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-%23D30001?style=for-the-badge&logoColor=white)
+![Wollok](https://img.shields.io/badge/Wollok-%23CC342D?style=for-the-badge&logoColor=white)
 
 ### ✅ Certifications:
 - 🏆 **Cambridge First Certificate (FCE)** – B2 Level  
@@ -32,6 +35,16 @@
 - 📨 **Marketing Cloud Email Specialist** – Email marketing automation with Salesforce  
 - 🗄️ **SQL** – Management and optimization of relational databases  
 - ⚡ **Agile Project Management & Scrum** – Agile methodologies for project management
+
+## Proyects:
+### 🎮 [WollokGame](https://github.com/LautaroPingitore/Juego_Wollok_UTN)
+- A video game developed using Wollok, an academic language focused on the object-oriented paradigm.
+  
+### 🌐 [BrowserExtension](https://github.com/LautaroPingitore/MateriasUtnExt)
+- A browser extension that allows students from UTN's Systems Engineering program to track the status of their courses.
+  
+### ⚙️ [LinuxOperatingSystem](https://github.com/LautaroPingitore/Tp-Operativos-2C2024)
+- A university project for the Operating Systems course that simulates a basic OS in a Linux environment.
 
 ## Contact Me :
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pingitore.lautaro@gmail.com)
