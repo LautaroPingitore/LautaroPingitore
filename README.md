@@ -17,7 +17,7 @@
   <br/>
 </div>
 
-## Languages I have used :
+## Languages and Tools I have used :
 <div align="center">
   
   ![C](https://img.shields.io/badge/C-%232370ED?style=for-the-badge&logo=c&logoColor=white)
@@ -32,6 +32,9 @@
   ![Haskell](https://img.shields.io/badge/Haskell-%235D4F85?style=for-the-badge&logo=haskell&logoColor=white)
   ![Prolog](https://img.shields.io/badge/Prolog-%23D30001?style=for-the-badge&logoColor=white)
   ![Wollok](https://img.shields.io/badge/Wollok-%23CC342D?style=for-the-badge&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
@@ -47,6 +50,9 @@
 ## Proyects:
 ### 🎮 [WollokGame](https://github.com/LautaroPingitore/Juego_Wollok_UTN)
 - A video game developed using Wollok, an academic language focused on the object-oriented paradigm.
+
+### 🖥️ [Birbnb](https://github.com/LautaroPingitore/Tp-Desarrollo-Pagina-Web)
+- A website developed using react, express.js and mongoDb as a part of a project
   
 ### 🌐 [BrowserExtension](https://github.com/LautaroPingitore/MateriasUtnExt)
 - A browser extension that allows students from UTN's Systems Engineering program to track the status of their courses.
